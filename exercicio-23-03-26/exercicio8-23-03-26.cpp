@@ -5,7 +5,7 @@ int main(){
 	char letra, vogais;
 	
 	
-	printf("digite uma letra para seaber se e vogal ou nao");
+	printf("digite uma letra para saber se e uma vogal");
 	scanf(" %c", &letra);
  	
  	
