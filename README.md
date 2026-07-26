@@ -1,2 +1,2 @@
 # Linguagem-C
-exercícios de linguagem C para fixar, int, float, char, pirntf e scanf .
+PDF DE AULA E EXERCICIO DE ALGORITMO E LOGICA DE PROGRAMÇÂO EM C
