@@ -1,0 +1,11 @@
+Correção do Trabalho Prático I
+Estruturas de Controle
+Desvios Condicionais 
+Switch - Case
+Estrutura de Repetição
+Laços de repetição
+while
+do-while
+for
+Contadores
+Acumuladores
